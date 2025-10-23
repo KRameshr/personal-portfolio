@@ -55,7 +55,7 @@ Your app will start at 👉 [http://localhost:3000](http://localhost:3000)
 
 ```bash
 npm run build
-npm run start
+npm run dev
 ```
 
 ---
