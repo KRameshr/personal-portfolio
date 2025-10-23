@@ -28,19 +28,19 @@ A **personal portfolio website** built using **Next.js**, **React**, **Node.js**
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/<repository-name>.git
+git clone https://github.com/KRameshr/personal-portfolio.git
 ```
 
 ### 2️⃣ Navigate to the project directory
 
 ```bash
-cd <repository-name>
+cd personal-portfolio
 ```
 
 ### 3️⃣ Install dependencies
 
 ```bash
-npm install
+npm install next react react-dom
 ```
 
 ### 4️⃣ Run in development mode
@@ -63,12 +63,14 @@ npm run start
 ## 📁 Folder Structure
 
 ```
-├── components/      # Reusable React components
-├── pages/           # Next.js pages and routes
-├── public/          # Static assets
-├── styles/          # CSS/SCSS files
-├── package.json     # Project metadata and scripts
-└── README.md        # Documentation
+├── app/            # Reusable React components and main app logic
+├── components/     # Next.js page components
+├── assets/         # Images, icons, and other assets
+├── public/         # Static files
+├── styles/         # CSS/SCSS files
+├── package.json    # Project metadata and scripts
+└── README.md       # Documentation
+
 ```
 
 ---
