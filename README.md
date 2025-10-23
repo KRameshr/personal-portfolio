@@ -73,12 +73,6 @@ npm run dev
 
 ```
 
----
-
-## 🧑‍💻 Author
-
-**K Ramesh**
-Full Stack Web Developer
 
 
 ---
