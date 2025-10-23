@@ -79,7 +79,7 @@ npm run dev
 
 **K Ramesh**
 Full Stack Web Developer
-[LinkedIn](https://www.linkedin.com/in/) | [GitHub](https://github.com/)
+
 
 ---
 
